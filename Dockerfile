@@ -1,4 +1,4 @@
-FROM java:8
+FROM java:7
 
 ADD http://mirror.softaculous.com/apache/ctakes/ctakes-3.2.2/apache-ctakes-3.2.2-bin.tar.gz /
 
