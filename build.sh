@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-docker build --no-cache -t ctakes-java7 .
+docker build -t ctakes-java7:3.2.2 .
